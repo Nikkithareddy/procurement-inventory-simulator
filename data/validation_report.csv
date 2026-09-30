@@ -1,0 +1,5 @@
+check,count
+missing_values,0
+duplicate_po_ids,0
+negative_or_zero_qty,0
+orphan_skus_in_po_not_in_master,0

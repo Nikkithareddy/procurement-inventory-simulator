@@ -1,0 +1,11 @@
+{
+  "total_skus_analyzed": 60,
+  "total_pos_analyzed": 856,
+  "validation_issues_found": 0,
+  "avg_potential_annual_savings_per_sku_usd": 16440.84,
+  "total_potential_annual_savings_usd": 986450.68,
+  "total_working_capital_freed_usd": 10797562.75,
+  "slow_moving_sku_count": 15,
+  "slow_moving_sku_share_pct": 25.0,
+  "slow_moving_working_capital_usd": 2937211.97
+}
